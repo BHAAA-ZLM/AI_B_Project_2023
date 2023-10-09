@@ -498,3 +498,4 @@ natural_training/sun_bfubazsyxzcxnvtx.jpg
 natural_training/sun_bwdvtwlzbuxstjcp.jpg
 natural_training/sun_aojrkmbmplkjuaan.jpg
 natural_training/sun_biozxhxgtfrmoagh.jpg
+natural_training/sun_coijsoiejboasolf.jpg
