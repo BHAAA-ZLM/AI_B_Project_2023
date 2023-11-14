@@ -54,3 +54,14 @@ report = classification_report(labels_test, y_pred)
 
 print(f"Accuracy: {accuracy: .2f}")
 print(f"Report: \n{report}")
+
+# Accuracy:  0.51
+# Report: 
+#               precision    recall  f1-score   support
+
+#            0       0.51      0.99      0.67       250
+#            1       0.75      0.04      0.07       250
+
+#     accuracy                           0.51       500
+#    macro avg       0.63      0.51      0.37       500
+# weighted avg       0.63      0.51      0.37       500
